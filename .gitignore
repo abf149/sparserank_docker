@@ -31,3 +31,6 @@
 **/data
 **/*.mp4
 **/profiles
+
+# Ignore contents of workspace directory
+#*/*/
